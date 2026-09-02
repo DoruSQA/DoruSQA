@@ -83,7 +83,7 @@ All three UI projects follow the same reusable and configurable automation frame
 - **Description:** UI automation framework applied to an HR management application, with application-specific functional test scenarios.
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
-- 
+
 ---
 
 ### 🔌 API Automation
@@ -94,23 +94,17 @@ All three UI projects follow the same reusable and configurable automation frame
 - **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
 - **Key Features:** Request/response validation, reusable components, test organization, reporting, logging
 
----
-
 #### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
 - **Description:** API automation framework for testing SOAP web services through automated request and response validation.
 - **Tech Stack:** `JavaScript` `Playwright`
 - **Key Features:** SOAP request handling, response validation, automated test scenarios, structured test execution
 
----
-
 #### 🔷 [GraphQL API Automation Framework](REPOSITORY_URL)
 
 - **Description:** API automation framework for testing GraphQL services, covering queries, mutations and response validation.
 - **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
 - **Key Features:** Query & mutation testing, response validation, reusable components, automated test execution
-
----
 
 #### 📮 [REST API Testing with Postman](REPOSITORY_URL)
 
