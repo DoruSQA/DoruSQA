@@ -86,31 +86,36 @@ All three UI projects follow the same reusable and configurable automation frame
 
 ---
 
-### 🔌 API Automation
+### 🧪 API Automation
 
-#### 🌐 [REST API Automation Framework](REPOSITORY_URL)
+I built four API testing projects covering REST, GraphQL and SOAP, using both code-based automation frameworks and Postman, with a focus on maintainability, reusability, test data management and end-to-end validation.
 
-- **Description:** API automation framework for testing RESTful services, with a focus on request/response validation and reusable test components.
-- **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
-- **Key Features:** Request/response validation, reusable components, test organization, reporting, logging 
+**Common Testing Concepts:**  
+`CRUD` `Positive & Negative Testing` `Boundary Testing` `Test Data Management` `Response Validation` `E2E Workflows` `Reporting` `Traceability`
+
+#### 🔗 [REST API Automation Framework](REPOSITORY_URL)
+
+- **Description:** REST API automation covering Auth, User, Product and Cart services, including CRUD, positive/negative scenarios, validation and JSON Schema testing.
+- **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
+- **Key Features:** Service Object Model, static/dynamic/model-based test data, JSON Schema validation, response deserialization, reusable expected values and configurable test execution.
+
+#### ◈ [GraphQL API Automation Framework](REPOSITORY_URL)
+
+- **Description:** GraphQL API automation covering User, Product and Order services, including CRUD operations and cross-service end-to-end business workflows.
+- **Tech Stack:** `Java` `REST Assured` `GraphQL` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
+- **Key Features:** Service Object Model, GraphQL queries & mutations, dynamic test data, response models, reusable expected values and E2E business-flow validation.
 
 #### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
-- **Description:** API automation framework for testing SOAP web services through automated request and response validation.
-- **Tech Stack:** `JavaScript` `Playwright`
-- **Key Features:** SOAP request handling, response validation, automated test scenarios, structured test execution
+- **Description:** SOAP API automation covering User and Product services, with CRUD operations and positive, negative, boundary and validation scenarios.
+- **Tech Stack:** `JavaScript` `Node.js` `Playwright` `SOAP` `XML` `fast-xml-parser`
+- **Key Features:** Service Object Model, reusable XML templates, runtime parametrization, custom Playwright fixtures and XML response parsing.
 
-#### 🔷 [GraphQL API Automation Framework](REPOSITORY_URL)
+#### 📬 [Postman REST API Testing](REPOSITORY_URL)
 
-- **Description:** API automation framework for testing GraphQL services, covering queries, mutations and response validation.
-- **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
-- **Key Features:** Query & mutation testing, response validation, reusable components, automated test execution
-
-#### 📮 [REST API Testing with Postman](REPOSITORY_URL)
-
-- **Description:** REST API testing project focused on functional API testing and request/response validation using Postman.
-- **Tech Stack:** `Postman` `REST API`
-- **Key Features:** API collections, functional test scenarios, request/response validation, test scripts
+- **Description:** Postman-based REST API testing of an e-commerce application covering User, Product and Order services, together with cross-service E2E workflows.
+- **Tech Stack:** `Postman` `JavaScript` `REST API` `JSON` `JSON Schema`
+- **Key Features:** CRUD testing, positive/negative & boundary testing, response and schema validation, dynamic test data generation, request chaining, Postman variables, JavaScript test scripts and E2E workflows.
 
 ---
 
