@@ -60,7 +60,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 ![Logback](https://img.shields.io/badge/Logback-4CAF50?style=for-the-badge&logoColor=white)
 
 ---
-## 🧪 Automation Projects
+## 🏆 Automation Projects
 
 ### 🖥️ UI Automation
 
