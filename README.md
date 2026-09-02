@@ -35,6 +35,29 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ### 🖥️ UI Automation
 
+I developed and applied the same reusable automation framework architecture to three different application domains, adapting the test scenarios and test data to each application.
+
+**Common Framework:**  
+`Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
+
+**Common Key Features:**  
+Page Object Model · Layered Architecture · Test Data Management · Configurable Execution · Reporting · Logging
+
+#### 🛒 [E-commerce Automation Framework](REPOSITORY_URL)
+
+- **Description:** UI automation of an e-commerce application with application-specific functional test scenarios.
+
+#### 🏦 [Banking Application Automation](REPOSITORY_URL)
+
+- **Description:** UI automation of a banking application covering authentication, account management, funds, transactions, bill payments and loan workflows.
+
+#### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
+
+- **Description:** UI automation of an HR management application with application-specific functional test scenarios.
+
+
+### 🖥️ UI Automation
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
