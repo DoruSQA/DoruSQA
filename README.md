@@ -64,132 +64,63 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ### 🖥️ UI Automation
 
-I've built automation frameworks for different types of applications, focusing on reusable structure, maintainability and realistic testing scenarios.
+#### 🛒 [E-commerce Automation Framework](REPOSITORY_URL)
 
-#### 🛒 E-commerce Automation Framework
-
-**Technologies:**  
-`Java` `Selenium WebDriver` `TestNG` `Maven`
-
-**Focus:**
-- UI test automation
-- Functional test scenarios
-- Reusable automation components
-- Test execution and organization
-- Reporting
-- Logging
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** UI automation framework for an e-commerce application, focused on functional testing and maintainable test automation.
+- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `ExtentReports` `Logback`
+- **Key Features:** Page Object Model, reusable components, test organization, reporting, logging
 
 ---
 
-#### 🏦 Banking Automation Framework
+#### 🏦 [Banking Automation Framework](REPOSITORY_URL)
 
-**Technologies:**  
-`Java` `Selenium WebDriver` `TestNG` `Maven`
-
-**Focus:**
-- UI automation
-- Functional testing
-- Reusable test components
-- Test organization
-- Reporting
-- Logging
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** UI automation framework for a banking application, covering functional scenarios and reusable automation components.
+- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `ExtentReports` `Logback`
+- **Key Features:** Page Object Model, reusable components, test organization, reporting, logging
 
 ---
 
-#### 🏢 HR Management Automation Framework
+#### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
 
-**Technologies:**  
-`Java` `Selenium WebDriver` `TestNG` `Maven`
-
-**Focus:**
-- UI automation
-- Functional testing
-- Framework structure
-- Reusable components
-- Reporting
-- Logging
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** UI automation framework for an HR management application, designed around maintainability and reusable test components.
+- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `ExtentReports` `Logback`
+- **Key Features:** Page Object Model, reusable components, test organization, reporting, logging
 
 ---
 
 ### 🔌 API Automation
 
-One of my main areas of interest is API testing because it provides a deeper understanding of how applications communicate behind the UI.
+#### 🌐 [REST API Automation Framework](REPOSITORY_URL)
 
-I've built automation frameworks covering **REST, SOAP and GraphQL APIs**.
-
----
-
-#### 🌐 REST API Automation Framework
-
-**Technologies:**  
-`Java` `REST Assured` `TestNG` `Maven`
-
-**Focus:**
-- REST API automation
-- Request/response validation
-- Functional API testing
-- Test organization
-- Reusable components
-- Test reporting
-- Logging
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** API automation framework for testing RESTful services, with a focus on request/response validation and reusable test components.
+- **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
+- **Key Features:** Request/response validation, reusable components, test organization, reporting, logging
 
 ---
 
-#### 🧼 SOAP API Automation Framework
+#### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
-**Technologies:**  
-`Java` `Playwright`
-
-**Focus:**
-- SOAP API testing
-- Request/response validation
-- Automated test scenarios
-- Reusable test components
-- Structured test execution
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** API automation framework for testing SOAP web services through automated request and response validation.
+- **Tech Stack:** `Java` `Playwright`
+- **Key Features:** SOAP request handling, response validation, automated test scenarios, structured test execution
 
 ---
 
-#### 🔷 GraphQL API Automation Framework
+#### 🔷 [GraphQL API Automation Framework](REPOSITORY_URL)
 
-**Technologies:**  
-`Java` `REST Assured`
-
-**Focus:**
-- GraphQL API testing
-- Query/mutation testing
-- Response validation
-- Automated test scenarios
-- Reusable components
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** API automation framework for testing GraphQL services, covering queries, mutations and response validation.
+- **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
+- **Key Features:** Query & mutation testing, response validation, reusable components, automated test execution
 
 ---
 
-##3# 📮 REST API Testing with Postman
+#### 📮 [REST API Testing with Postman](REPOSITORY_URL)
 
-A separate project focused on REST API testing using Postman.
-
-**Focus:**
-- REST API requests
-- Functional API testing
-- Request and response validation
-- Test collections
-- API test scenarios
-
-🔗 **Repository:** [TO COMPLETE]
+- **Description:** REST API testing project focused on functional API testing and request/response validation using Postman.
+- **Tech Stack:** `Postman` `REST API`
+- **Key Features:** API collections, functional test scenarios, request/response validation, test scripts
 
 ---
-
 
 ## 🎯 Current Focus
 
