@@ -35,29 +35,6 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ### 🖥️ UI Automation
 
-I developed and applied the same reusable automation framework architecture to three different application domains, adapting the test scenarios and test data to each application.
-
-**Common Framework:**  
-`Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
-
-**Common Key Features:**  
-Page Object Model · Layered Architecture · Test Data Management · Configurable Execution · Reporting · Logging
-
-#### 🛒 [E-commerce Automation Framework](REPOSITORY_URL)
-
-- **Description:** UI automation of an e-commerce application with application-specific functional test scenarios.
-
-#### 🏦 [Banking Application Automation](REPOSITORY_URL)
-
-- **Description:** UI automation of a banking application covering authentication, account management, funds, transactions, bill payments and loan workflows.
-
-#### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
-
-- **Description:** UI automation of an HR management application with application-specific functional test scenarios.
-
-
-### 🖥️ UI Automation
-
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -87,28 +64,26 @@ Page Object Model · Layered Architecture · Test Data Management · Configurabl
 
 ### 🖥️ UI Automation
 
+All three UI projects follow the same reusable and configurable automation framework architecture, with the application-specific test scenarios adapted to each domain.
+
 #### 🛒 [E-commerce Automation Framework](REPOSITORY_URL)
 
-- **Description:** UI automation framework for an e-commerce application, focused on functional testing and maintainable test automation.
-- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `ExtentReports` `Logback`
-- **Key Features:** Page Object Model, reusable components, test organization, reporting, logging
+- **Description:** UI automation framework applied to an e-commerce application, covering application-specific functional test scenarios.
+- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
+- **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
 
----
+#### 🏦 [Banking Application Automation](REPOSITORY_URL)
 
-#### 🏦 [Banking Automation Framework](REPOSITORY_URL)
-
-- **Description:** UI automation framework for a banking application, covering functional scenarios and reusable automation components.
-- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `ExtentReports` `Logback`
-- **Key Features:** Page Object Model, reusable components, test organization, reporting, logging
-
----
+- **Description:** UI automation framework applied to a banking application, covering authentication, account management, funds, transactions, bill payments and loan workflows.
+- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
+- **Key Features:** Page Object Model, layered architecture, static/dynamic/model-based test data, multi-environment & multi-browser execution, parallel execution, reporting & logging
 
 #### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
 
-- **Description:** UI automation framework for an HR management application, designed around maintainability and reusable test components.
-- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `ExtentReports` `Logback`
-- **Key Features:** Page Object Model, reusable components, test organization, reporting, logging
-
+- **Description:** UI automation framework applied to an HR management application, with application-specific functional test scenarios.
+- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
+- **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
+- 
 ---
 
 ### 🔌 API Automation
