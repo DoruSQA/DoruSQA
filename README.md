@@ -190,28 +190,11 @@ A separate project focused on REST API testing using Postman.
 
 ---
 
-# 🎯 Current Focus
-
-I'm currently focused on improving my skills in:
-
-- Advanced UI automation
-- API automation and testing
-- Framework architecture
-- Test design and maintainability
-- Java for test automation
-- CI/CD integration
-- Better reporting and logging
-- Understanding software quality beyond the UI
-
----
 
 # 🎯 Current Focus
-# 📚 Currently Learning
 
 `Advanced Java`
-
 `Advanced API Testing`
-
 `Software Testing Best Practices`
 
 ---
