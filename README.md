@@ -190,27 +190,6 @@ A separate project focused on REST API testing using Postman.
 
 ---
 
-# 🧠 My Approach to Automation
-
-When building automation projects, I try to focus not only on making tests pass, but also on creating something that can be **understood, maintained and extended**.
-
-Some of the principles I try to follow:
-
-- ♻️ Reusability
-- 🧩 Separation of concerns
-- 📖 Readable and maintainable code
-- 🏗️ Structured framework design
-- 🔍 Meaningful test coverage
-- 📊 Clear test reporting
-- 📝 Useful logging
-- 🚫 Avoiding unnecessary duplication
-- 🔧 Keeping configuration separate from test logic
-- 📈 Designing frameworks with future extension in mind
-
-I'm still learning and improving these practices, but I consider the way a framework is designed just as important as the tests themselves.
-
----
-
 # 🎯 Current Focus
 
 I'm currently focused on improving my skills in:
