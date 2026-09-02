@@ -118,20 +118,12 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 - **Key Features:** CRUD testing, positive/negative & boundary testing, response and schema validation, dynamic test data generation, request chaining, Postman variables, JavaScript test scripts and E2E workflows.
 
 ---
-
-## 🎯 Current Focus
-
-`Java & Test Automation`<br>
-`Advanced API Testing`<br>
-`Software Testing Best Practices`<br>
-
----
 ## 🎯 Current Focus
 
 - Java & Test Automation
-- **Advanced API Testing**
-- **Software Testing Best Practices**
-- **Test Automation Framework Design**
+- Advanced API Testing
+- Software Testing Best Practices
+- Test Automation Framework Design
 
 ---
 
