@@ -20,7 +20,6 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 - 🌐 Hands-on experience with both **UI and API automation**
 - 🏗️ Built automation frameworks rather than only writing isolated test scripts
 - 🧩 Interested in clean structure, maintainability and reusable test components
-- 📊 Worked with test reporting and logging as part of automation frameworks
 - 📚 Continuously learning and improving my testing and automation skills
 - 🎯 Currently looking for my first professional opportunity in **QA Automation**
 
