@@ -16,7 +16,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 - 🧪 Completed QA Automation training with a strong hands-on focus
 - 🔍 Curious by nature and interested in understanding systems beyond the surface
-- 💻 Comfortable working with **Java, JavaScript and C++**
+- 💻 Comfortable working with **Java, JavaScript and C#**
 - 🌐 Hands-on experience with both **UI and API automation**
 - 🏗️ Built automation frameworks rather than only writing isolated test scripts
 - 🧩 Interested in clean structure, maintainability and reusable test components
@@ -32,7 +32,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🖥️ UI Automation
 
