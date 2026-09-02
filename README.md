@@ -92,7 +92,7 @@ All three UI projects follow the same reusable and configurable automation frame
 
 - **Description:** API automation framework for testing RESTful services, with a focus on request/response validation and reusable test components.
 - **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven`
-- **Key Features:** Request/response validation, reusable components, test organization, reporting, logging
+- **Key Features:** Request/response validation, reusable components, test organization, reporting, logging 
 
 #### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
