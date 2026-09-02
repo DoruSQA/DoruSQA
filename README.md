@@ -203,13 +203,10 @@ A separate project focused on REST API testing using Postman.
 
 I'm always open to connecting with other people interested in:
 
-`QA` `Test Automation` `Software Testing` `API Testing` `Java`
+`QA` `Test Automation` `Software Testing` `API Testing` `Java` `Playwright` 
 
-📧 **Email:** [TO COMPLETE]
-
-💼 **LinkedIn:** [TO COMPLETE]
-
-🐙 **GitHub:** [TO COMPLETE]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADDRESS)
 
 ---
 
