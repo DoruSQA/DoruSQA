@@ -216,33 +216,14 @@ I'm currently focused on improving my skills in:
 
 ---
 
+# 🎯 Current Focus
 # 📚 Currently Learning
 
 `Advanced Java`
 
 `Advanced API Testing`
 
-`Test Automation Architecture`
-
-`CI/CD`
-
-`Git & GitHub`
-
 `Software Testing Best Practices`
-
----
-
-# 💼 What I'm Looking For
-
-I'm currently looking for my **first professional opportunity in QA Automation** where I can:
-
-- contribute to real-world testing projects
-- learn from experienced QA engineers and developers
-- improve my automation skills
-- understand how quality processes work in a professional environment
-- gradually take more responsibility for automation and test frameworks
-
-I'm particularly interested in environments where **learning, quality and continuous improvement** are valued.
 
 ---
 
