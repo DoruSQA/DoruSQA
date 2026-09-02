@@ -128,11 +128,13 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 ---
 ## 🎯 Current Focus
 
-<kbd>Java & Test Automation</kbd>
-<kbd>Advanced API Testing</kbd>
-<kbd>Software Testing Best Practices</kbd>
-<kbd>Test Automation Framework Design</kbd>
+☕ **Java & Test Automation**  
+🔌 **Advanced API Testing**  
+🧪 **Software Testing Best Practices**  
+🏗️ **Test Automation Framework Design**
+
 ---
+
 ## 🤝 Let's Connect
 
 I'm always open to connecting with QA professionals, testers and developers interested in software quality and test automation.
