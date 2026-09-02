@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Doru
 
-### QA Automation | UI & API Testing | Java
+### QA Automation | UI & API Testing 
 
 I'm a QA Automation enthusiast with a strong interest in understanding how software works behind the scenes.
 
