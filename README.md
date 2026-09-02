@@ -16,7 +16,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 - 🧪 Completed QA Automation training with a strong hands-on focus
 - 🔍 Curious by nature and interested in understanding systems beyond the surface
-- 💻 Comfortable working with **Java, JavaScript and C#**
+- 💻 Working knowledge of **Java, JavaScript and C#**
 - 🌐 Hands-on experience with both **UI and API automation**
 - 🏗️ Built automation frameworks rather than only writing isolated test scripts
 - 🧩 Interested in clean structure, maintainability and reusable test components
