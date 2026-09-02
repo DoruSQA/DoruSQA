@@ -191,7 +191,7 @@ A separate project focused on REST API testing using Postman.
 ---
 
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 `Advanced Java`<br>
 `Advanced API Testing`<br>
@@ -217,7 +217,3 @@ I'm always open to connecting with other people interested in:
 I enjoy taking things apart, understanding how they work, and then figuring out how to test them properly.
 
 ---
-
-⭐ Thanks for visiting my profile!
-
-If you find any of my projects interesting, feel free to explore the repositories.
