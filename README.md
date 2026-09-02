@@ -30,26 +30,36 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ### 💻 Programming Languages
 
-`Java` `JavaScript` `C++`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🖥️ UI Automation
 
-`Selenium WebDriver` `TestNG` `Maven`
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### 🔌 API Testing & Automation
 
-`REST` `REST Assured` `SOAP` `GraphQL` `Playwright` `Postman`
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge&logo=soap&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔧 Development & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### 📊 Reporting & Logging
 
-`Test Reports` `Logging`
-
-### 🔧 Tools & Practices
-
-`Git` `GitHub` `Maven` `TestNG`
+`Test Reporting` `Logging` `Allure`
 
 ---
-
 # 🧪 Automation Projects
 
 ## 🖥️ UI Automation
