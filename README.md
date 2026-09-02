@@ -230,7 +230,7 @@ I'm always open to connecting with other people interested in:
 
 ---
 
-### 💡 A little bit about me
+### 💡 A little bit about me  s
 
 > "I'm curious about what happens behind the scenes."
 
