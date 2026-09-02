@@ -101,7 +101,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 #### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
 - **Description:** API automation framework for testing SOAP web services through automated request and response validation.
-- **Tech Stack:** `Java` `Playwright`
+- **Tech Stack:** `JavaScript` `Playwright`
 - **Key Features:** SOAP request handling, response validation, automated test scenarios, structured test execution
 
 ---
