@@ -60,13 +60,13 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 ![Logback](https://img.shields.io/badge/Logback-4CAF50?style=for-the-badge&logoColor=white)
 
 ---
-# 🧪 Automation Projects
+## 🧪 Automation Projects
 
-## 🖥️ UI Automation
+### 🖥️ UI Automation
 
 I've built automation frameworks for different types of applications, focusing on reusable structure, maintainability and realistic testing scenarios.
 
-### 🛒 E-commerce Automation Framework
+#### 🛒 E-commerce Automation Framework
 
 **Technologies:**  
 `Java` `Selenium WebDriver` `TestNG` `Maven`
@@ -83,7 +83,7 @@ I've built automation frameworks for different types of applications, focusing o
 
 ---
 
-### 🏦 Banking Automation Framework
+#### 🏦 Banking Automation Framework
 
 **Technologies:**  
 `Java` `Selenium WebDriver` `TestNG` `Maven`
@@ -100,7 +100,7 @@ I've built automation frameworks for different types of applications, focusing o
 
 ---
 
-### 🏢 HR Management Automation Framework
+#### 🏢 HR Management Automation Framework
 
 **Technologies:**  
 `Java` `Selenium WebDriver` `TestNG` `Maven`
@@ -117,7 +117,7 @@ I've built automation frameworks for different types of applications, focusing o
 
 ---
 
-# 🔌 API Automation
+### 🔌 API Automation
 
 One of my main areas of interest is API testing because it provides a deeper understanding of how applications communicate behind the UI.
 
@@ -125,7 +125,7 @@ I've built automation frameworks covering **REST, SOAP and GraphQL APIs**.
 
 ---
 
-### 🌐 REST API Automation Framework
+#### 🌐 REST API Automation Framework
 
 **Technologies:**  
 `Java` `REST Assured` `TestNG` `Maven`
@@ -143,7 +143,7 @@ I've built automation frameworks covering **REST, SOAP and GraphQL APIs**.
 
 ---
 
-### 🧼 SOAP API Automation Framework
+#### 🧼 SOAP API Automation Framework
 
 **Technologies:**  
 `Java` `Playwright`
@@ -159,7 +159,7 @@ I've built automation frameworks covering **REST, SOAP and GraphQL APIs**.
 
 ---
 
-### 🔷 GraphQL API Automation Framework
+#### 🔷 GraphQL API Automation Framework
 
 **Technologies:**  
 `Java` `REST Assured`
@@ -175,7 +175,7 @@ I've built automation frameworks covering **REST, SOAP and GraphQL APIs**.
 
 ---
 
-### 📮 REST API Testing with Postman
+##3# 📮 REST API Testing with Postman
 
 A separate project focused on REST API testing using Postman.
 
@@ -191,7 +191,7 @@ A separate project focused on REST API testing using Postman.
 ---
 
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 `Advanced Java`<br>
 `Advanced API Testing`<br>
@@ -199,7 +199,7 @@ A separate project focused on REST API testing using Postman.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to connecting with other people interested in:
 
@@ -210,7 +210,7 @@ I'm always open to connecting with other people interested in:
 
 ---
 
-### 💡 A little bit about me  s
+## 💡 A little bit about me  
 
 > "I'm curious about what happens behind the scenes."
 
