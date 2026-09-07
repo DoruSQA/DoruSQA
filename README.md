@@ -126,13 +126,8 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 ---
 
 ## 🤝 Let's Connect
-
-I'm always open to connecting with QA professionals, testers and developers interested in software quality and test automation.
-
-`QA` `Test Automation` `Software Testing` `API Testing` `Java` `Playwright` 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sava-doru/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sava23917@gmail.com)
 
 ---
 
