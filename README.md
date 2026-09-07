@@ -4,8 +4,6 @@
 
 I'm a QA Automation enthusiast with a strong interest in understanding how software works behind the scenes.
 
-I've completed QA Automation training and built several hands-on automation frameworks covering both **UI and API testing**.
-
 I enjoy going beyond simply checking whether something works — I'm interested in understanding **why it works, how it works, and how it can be tested reliably**.
 
 🔍 Curious by nature • 🧪 Quality-focused • 🚀 Always learning
