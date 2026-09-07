@@ -130,6 +130,6 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 
 ## 💡 A little bit about me  
 
-> "Where there's a **will** there's a **way**"
+> "If there's a **will** there's a **way**"
 
 ---
