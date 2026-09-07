@@ -17,10 +17,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 - 💻 Working knowledge of **Java, JavaScript and C#**
 - 🌐 Hands-on experience with both **UI and API automation**
 - 🏗️ Built automation frameworks rather than only writing isolated test scripts
-- 🧩 Interested in clean structure, maintainability and reusable test components
 - 📚 Continuously learning and improving my testing and automation skills
-- 🎯 Currently looking for my first professional opportunity in **QA Automation**
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -133,8 +130,6 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 
 ## 💡 A little bit about me  
 
-> "I'm curious about what happens behind the scenes."
-
-I enjoy taking things apart, understanding how they work, and then figuring out how to test them properly.
+> "Where there's a **will** there's a **way**"
 
 ---
