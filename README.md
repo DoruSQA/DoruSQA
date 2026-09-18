@@ -10,7 +10,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 - 🧪 Completed QA Automation training with a strong hands-on focus
 - 🔍 Curious by nature and interested in understanding systems beyond the surface
