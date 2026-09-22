@@ -80,6 +80,13 @@ All three UI projects follow the same reusable and configurable automation frame
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, static/dynamic/model-based test data, multi-environment & multi-browser execution, parallel execution, reporting & logging
 
+#### 🗃️ [Inventory Desktop UI Automation Framework](repo url)
+
+- **Status:** 🟢 Public
+- **Description:** Windows Desktop UI automation framework applied to an Inventory application, covering authentication, customer management and product management workflows.
+- **Tech Stack:** `C#` `.NET 6.0` `Appium` `WinAppDriver` `Selenium WebDriver` `NUnit` `Extent Reports`
+- **Key Features:** Layered architecture, structured namespace organization external test data, reusable components, custom element waits, configurable test execution, reporting
+
 #### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
 
 - **Status:** 🔒 Private (Access upon request)
