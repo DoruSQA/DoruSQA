@@ -73,7 +73,7 @@ All three UI projects follow the same reusable and configurable automation frame
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
 
-#### 🏦 [Banking Application Automation](REPOSITORY_URL)
+#### 🏦 [Banking Application Automation](https://github.com/DoruSQA/Project-1-Banking-Web-UI-Automation-Framework.git)
 
 - **Status:** 🔒 Private (Access upon request)
 - **Description:** UI automation framework applied to a banking application, covering authentication, account management, funds, transactions, bill payments and loan workflows.
