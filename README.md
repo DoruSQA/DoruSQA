@@ -105,7 +105,7 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 - **Status:** 🔒 Private (Access upon request)
 - **Description:** REST API automation covering Auth, User, Product and Cart services, including CRUD, positive/negative scenarios, validation and JSON Schema testing.
 - **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
-- **Key Features:** Test Data Management, JSON Schema Validation, Response Deserialization, Configurable Execution.
+- **Key Features:** REST service test organization, Test Data Management, JSON Schema Validation, Response Deserialization, Configurable Execution.
 
 #### ◈ [GraphQL API Automation Framework](REPOSITORY_URL)
 
