@@ -66,7 +66,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 All three UI projects follow the same reusable and configurable automation framework architecture, with the application-specific test scenarios adapted to each domain.
 
-#### 🛒 [E-commerce Automation Framework](REPOSITORY_URL](https://github.com/DoruSQA/Project-2-eCommerce-Web-UI-Automation-Framework)
+#### 🛒 [E-commerce Automation Framework](https://github.com/DoruSQA/Project-2-eCommerce-Web-UI-Automation-Framework.git)
 
 - **Status:** 🟢 Public
 - **Description:** UI automation framework applied to an e-commerce application, covering application-specific functional test scenarios.
