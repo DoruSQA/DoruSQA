@@ -64,7 +64,7 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 ### 🖥️ UI Automation
 
-All three UI projects follow the same reusable and configurable automation framework architecture, with the application-specific test scenarios adapted to each domain.
+All UI projects follow a similar framework architecture, with the application-specific test scenarios adapted to each domain.
 
 #### 🛒 [E-commerce Automation Framework](https://github.com/DoruSQA/Project-2-eCommerce-Web-UI-Automation-Framework.git)
 
