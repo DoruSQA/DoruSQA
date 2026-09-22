@@ -114,7 +114,7 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 - **Tech Stack:** `Java` `REST Assured` `GraphQL` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
 - **Key Features:** GraphQL queries & mutations, dynamic test data, response models, reusable expected values and E2E business-flow validation.
 
-#### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
+#### 🧼 [SOAP API Automation Framework](https://github.com/DoruSQA/Project-6-SOAP-API-Automation-Framework.git)
 
 - **Status:** 🟢 Public
 - **Description:** SOAP API automation covering User and Product services, with CRUD operations and positive, negative, boundary and validation scenarios.
