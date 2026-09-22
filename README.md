@@ -68,18 +68,21 @@ All three UI projects follow the same reusable and configurable automation frame
 
 #### 🛒 [E-commerce Automation Framework](REPOSITORY_URL)
 
+- **Status:** 🟢 Public
 - **Description:** UI automation framework applied to an e-commerce application, covering application-specific functional test scenarios.
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
 
 #### 🏦 [Banking Application Automation](REPOSITORY_URL)
 
+- **Status:** 🔒 Private (Access upon request)
 - **Description:** UI automation framework applied to a banking application, covering authentication, account management, funds, transactions, bill payments and loan workflows.
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, static/dynamic/model-based test data, multi-environment & multi-browser execution, parallel execution, reporting & logging
 
 #### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
 
+- **Status:** 🔒 Private (Access upon request)
 - **Description:** UI automation framework applied to an HR management application, with application-specific functional test scenarios.
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
@@ -95,24 +98,28 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 
 #### 🔗 [REST API Automation Framework](REPOSITORY_URL)
 
+- **Status:** 🔒 Private (Access upon request)
 - **Description:** REST API automation covering Auth, User, Product and Cart services, including CRUD, positive/negative scenarios, validation and JSON Schema testing.
 - **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
 - **Key Features:** Service Object Model, Test Data Management, JSON Schema Validation, Response Deserialization, Configurable Execution.
 
 #### ◈ [GraphQL API Automation Framework](REPOSITORY_URL)
 
+- **Status:** 🔒 Private (Access upon request)
 - **Description:** GraphQL API automation covering User, Product and Order services, including CRUD operations and cross-service end-to-end business workflows.
 - **Tech Stack:** `Java` `REST Assured` `GraphQL` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
 - **Key Features:** Service Object Model, GraphQL queries & mutations, dynamic test data, response models, reusable expected values and E2E business-flow validation.
 
 #### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
+- **Status:** 🟢 Public
 - **Description:** SOAP API automation covering User and Product services, with CRUD operations and positive, negative, boundary and validation scenarios.
 - **Tech Stack:** `JavaScript` `Node.js` `Playwright` `SOAP` `XML` `fast-xml-parser`
 - **Key Features:** Service Object Model, reusable XML templates, runtime parametrization, custom Playwright fixtures and XML response parsing.
 
 #### 📬 [Postman REST API Testing](REPOSITORY_URL)
 
+- **Status:** 🔒 Private (Access upon request)
 - **Description:** Postman-based REST API testing of an e-commerce application covering User, Product and Order services, together with cross-service E2E workflows.
 - **Tech Stack:** `Postman` `JavaScript` `REST API` `JSON` `JSON Schema`
 - **Key Features:** CRUD testing, positive/negative & boundary testing, response and schema validation, dynamic test data generation, request chaining, Postman variables, JavaScript test scripts and E2E workflows.
