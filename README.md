@@ -100,29 +100,26 @@ All UI projects follow a similar framework architecture, with the application-sp
 
 I built four API testing projects covering REST, GraphQL and SOAP, using both code-based automation frameworks and Postman, with a focus on maintainability, reusability, test data management and end-to-end validation.
 
-**Common Testing Concepts:**  
-`CRUD` `Positive & Negative Testing` `Boundary Testing` `Test Data Management` `Response Validation` `E2E Workflows` `Reporting` `Traceability`
-
 #### 🔗 [REST API Automation Framework](REPOSITORY_URL)
 
 - **Status:** 🔒 Private (Access upon request)
 - **Description:** REST API automation covering Auth, User, Product and Cart services, including CRUD, positive/negative scenarios, validation and JSON Schema testing.
 - **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
-- **Key Features:** Service Object Model, Test Data Management, JSON Schema Validation, Response Deserialization, Configurable Execution.
+- **Key Features:** Test Data Management, JSON Schema Validation, Response Deserialization, Configurable Execution.
 
 #### ◈ [GraphQL API Automation Framework](REPOSITORY_URL)
 
 - **Status:** 🔒 Private (Access upon request)
 - **Description:** GraphQL API automation covering User, Product and Order services, including CRUD operations and cross-service end-to-end business workflows.
 - **Tech Stack:** `Java` `REST Assured` `GraphQL` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
-- **Key Features:** Service Object Model, GraphQL queries & mutations, dynamic test data, response models, reusable expected values and E2E business-flow validation.
+- **Key Features:** GraphQL queries & mutations, dynamic test data, response models, reusable expected values and E2E business-flow validation.
 
 #### 🧼 [SOAP API Automation Framework](REPOSITORY_URL)
 
 - **Status:** 🟢 Public
 - **Description:** SOAP API automation covering User and Product services, with CRUD operations and positive, negative, boundary and validation scenarios.
 - **Tech Stack:** `JavaScript` `Node.js` `Playwright` `SOAP` `XML` `fast-xml-parser`
-- **Key Features:** Service Object Model, reusable XML templates, runtime parametrization, custom Playwright fixtures and XML response parsing.
+- **Key Features:** Reusable XML templates, runtime parametrization, custom Playwright fixtures and XML response parsing.
 
 #### 📬 [Postman REST API Testing](REPOSITORY_URL)
 
