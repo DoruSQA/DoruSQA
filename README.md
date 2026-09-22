@@ -121,7 +121,7 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 - **Tech Stack:** `JavaScript` `Node.js` `Playwright` `SOAP` `XML` `fast-xml-parser`
 - **Key Features:** Reusable XML templates, runtime parametrization, custom Playwright fixtures and XML response parsing.
 
-#### 📬 [Postman REST API Testing](REPOSITORY_URL)
+#### 📬 [Postman REST API Testing](https://github.com/DoruSQA/project-7.git)
 
 - **Status:** 🔒 Private (Access upon request)
 - **Description:** Postman-based REST API testing of an e-commerce application covering User, Product and Order services, together with cross-service E2E workflows.
