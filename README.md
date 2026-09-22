@@ -66,16 +66,16 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 
 All UI projects follow a similar framework architecture, with the application-specific test scenarios adapted to each domain.
 
-#### 🛒 [E-commerce Automation Framework](https://github.com/DoruSQA/Project-2-eCommerce-Web-UI-Automation-Framework.git)
+#### 🛒 [E-commerce Automation Framework](https://github.com/DoruSQA/Project-1-eCommerce-Web-UI-Automation-Framework.git)
 
-- **Status:** 🟢 Public
+- - **Status:** 🔒 Private (Access upon request)
 - **Description:** UI automation framework applied to an e-commerce application, covering application-specific functional test scenarios.
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
 
-#### 🏦 [Banking Application Automation](https://github.com/DoruSQA/Project-1-Banking-Web-UI-Automation-Framework.git)
+#### 🏦 [Banking Application Automation](https://github.com/DoruSQA/Project-2-Banking-Web-UI-Automation-Framework.git)
 
-- **Status:** 🔒 Private (Access upon request)
+- **Status:** 🟢 Public
 - **Description:** UI automation framework applied to a banking application, covering authentication, account management, funds, transactions, bill payments and loan workflows.
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, static/dynamic/model-based test data, multi-environment & multi-browser execution, parallel execution, reporting & logging
@@ -123,7 +123,7 @@ I built four API testing projects covering REST, GraphQL and SOAP, using both co
 
 #### 📬 [Postman REST API Testing](https://github.com/DoruSQA/Project-7-REST-API-Testing-Postman.git)
 
-- **Status:** 🔒 Private (Access upon request)
+- **Status:** 🟢 Public
 - **Description:** Postman-based REST API testing of an e-commerce application covering User, Product and Order services, together with cross-service E2E workflows.
 - **Tech Stack:** `Postman` `JavaScript` `REST API` `JSON` `JSON Schema`
 - **Key Features:** CRUD testing, positive/negative & boundary testing, response and schema validation, dynamic test data generation, request chaining, Postman variables, JavaScript test scripts and E2E workflows.
