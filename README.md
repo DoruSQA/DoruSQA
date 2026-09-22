@@ -80,7 +80,7 @@ All three UI projects follow the same reusable and configurable automation frame
 - **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
 - **Key Features:** Page Object Model, layered architecture, static/dynamic/model-based test data, multi-environment & multi-browser execution, parallel execution, reporting & logging
 
-#### 🗃️ [Inventory Desktop UI Automation Framework](repo url)
+#### 🗃️ [Inventory Desktop UI Automation Framework](https://github.com/DoruSQA/Project-9-Inventory-Desktop-UI-Automation-Framework)
 
 - **Status:** 🟢 Public
 - **Description:** Windows Desktop UI automation framework applied to an Inventory application, covering authentication, customer management and product management workflows.
