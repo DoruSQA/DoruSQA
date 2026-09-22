@@ -28,11 +28,17 @@ I enjoy going beyond simply checking whether something works — I'm interested 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+### 🧪 Test Frameworks
+[![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![NUnit](https://img.shields.io/badge/NUnit-3-red?style=for-the-badge&logo=nunit)](https://nunit.org/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+
 ### 🖥️ UI Automation
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Appium](https://img.shields.io/badge/Appium-3.x-purple?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
+[![WinAppDriver](https://img.shields.io/badge/WinAppDriver-Windows%20Desktop-blue?style=for-the-badge)](https://github.com/microsoft/WinAppDriver)
 
 ### 🔌 API Testing & Automation
 
