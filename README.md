@@ -38,6 +38,7 @@
   - 📚 Continuously learning and improving my QA Automation skill set.
 </𝚙>
 
+---
 
 ### 🛠️ Teck Stack
 
@@ -60,6 +61,7 @@
 ![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
 
+---
 
 ### ⚡ GitHub Stats 
 
