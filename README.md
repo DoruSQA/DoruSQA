@@ -26,9 +26,9 @@
     <br>
   - 🔍 Curious by nature and interested in understanding systems beyond the surface.
     <br>
-  - 💻 Working knowledge of **Java, JavaScript and C#.**
+  - 💻 Working knowledge of **Java**, **JavaScript** and **C#.**
     <br>
-  - 🌐 Hands-on experience with both **UI and API automation.**
+  - 🌐 Hands-on experience with both **UI** and **API automation**.
 	<br>
   - 🏗️ Built automation frameworks rather than only writing isolated test scripts.
 	<br>
