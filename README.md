@@ -50,30 +50,12 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?\&logo=githubactions)
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
 
-<a href="https://playwright.dev/">
-  <img src="https://raw.githubusercontent.com/microsoft/playwright/main/static/img/playwright-logo.svg" height="20">
-</a>
 
-<a href="https://rest-assured.io/">
-  <img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo-green.png" height="20">
-</a>
-
-yep
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-000?&logo=testng&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-000?&logo=pytest&logoColor=white)
-![REST Assured](https://img.shields.io/badge/-REST%20Assured-000?&logo=restassured&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/-k6-000?&logo=k6&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-000?&logo=apache&logoColor=white)
-
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=white)
+![NUnit](https://img.shields.io/badge/-NUnit-000?&logo=nunit&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-000?&logo=appium&logoColor=white)
+![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
 
 ### 📌 Areas of Focus
 
