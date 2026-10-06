@@ -1,151 +1,80 @@
-# 👋 Hi, I'm Doru
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DoruSQA.DoruSQA&right_color=blue">
 
-### QA Automation | UI & API Testing | Java
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I'm+Doru+👋;QA+Automation+Engineer;UI+%7C+API+%7C+Performance+Testing&center=true&size=30">
+  </a>
+</h1>
 
-I'm a QA Automation enthusiast with a strong interest in understanding how software works behind the scenes.
+<h5 align="center">
+  <a href="https://www.linkedin.com/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  </a>
+  <a href="https://github.com/DoruSQA" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</h5>
 
-I enjoy going beyond simply checking whether something works — I'm interested in understanding **why it works, how it works, and how it can be tested reliably**.
+<br>
 
-🔍 Curious by nature • 🧪 Quality-focused • 🚀 Always learning
+<p align="left">
+  👋 Hi, I'm Doru, a QA Automation enthusiast focused on building reliable and maintainable test automation solutions.
+  <br><br>
+  🔎 My main areas of interest are UI, API and Performance Testing.
+  <br>
+  💻 I build automation frameworks using Java and JavaScript, with a focus on reusable and scalable test architecture.
+  <br>
+  🧪 Experienced with UI and API automation, test frameworks, reporting, test data management and CI workflows.
+  <br>
+  ⚡ Currently exploring Performance Testing with k6 and modern automation practices.
+  <br>
+  📚 Continuously learning and expanding my QA Automation skill set.
+</p>
 
----
+<h2 align="center">🔨 Languages & Tools</h2>
 
-## 👤 About Me
+<p align="center">
 
-- 🧪 Completed QA Automation training with a strong hands-on focus
-- 🔍 Curious by nature and interested in understanding systems beyond the surface
-- 💻 Working knowledge of **Java, JavaScript and C#**
-- 🌐 Hands-on experience with both **UI and API automation**
-- 🏗️ Built automation frameworks rather than only writing isolated test scripts
-- 📚 Continuously learning and improving my testing and automation skills
----
+<img src="https://img.shields.io/badge/Java-000?&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-000?&logo=javascript">
+<img src="https://img.shields.io/badge/Python-000?&logo=python">
+<br>
 
-## 🛠️ Tech Stack & Tools
+<img src="https://img.shields.io/badge/Selenium-000?&logo=selenium">
+<img src="https://img.shields.io/badge/Playwright-000?&logo=playwright">
+<img src="https://img.shields.io/badge/TestNG-000?&logo=testng">
+<img src="https://img.shields.io/badge/pytest-000?&logo=pytest">
+<br>
 
-### 💻 Programming Languages
+<img src="https://img.shields.io/badge/REST%20Assured-000?&logo=java">
+<img src="https://img.shields.io/badge/Postman-000?&logo=postman">
+<img src="https://img.shields.io/badge/k6-000?&logo=k6">
+<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://img.shields.io/badge/Maven-000?&logo=apachemaven">
+<img src="https://img.shields.io/badge/Git-000?&logo=git">
+<img src="https://img.shields.io/badge/GitHub%20Actions-000?&logo=githubactions">
+<img src="https://img.shields.io/badge/JMeter-000?&logo=apache">
+</p>
 
-### 🧪 Test Frameworks
-[![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-[![NUnit](https://img.shields.io/badge/NUnit-3-red?style=for-the-badge&logo=nunit)](https://nunit.org/)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+<h2 align="center">📌 Areas of Focus</h2>
 
-### 🖥️ UI Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%20Automation-Selenium%20%7C%20Playwright-blue">
+  <img src="https://img.shields.io/badge/API%20Testing-REST%20Assured%20%7C%20Postman-green">
+  <img src="https://img.shields.io/badge/Performance%20Testing-k6%20%7C%20JMeter-orange">
+  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-purple">
+</p>
 
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Appium](https://img.shields.io/badge/Appium-3.x-purple?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
-[![WinAppDriver](https://img.shields.io/badge/WinAppDriver-Windows%20Desktop-blue?style=for-the-badge)](https://github.com/microsoft/WinAppDriver)
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-### 🔌 API Testing & Automation
+<br>
 
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge&logo=soap&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🔧 Development & Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 📊 Reporting & Logging
-
-![ExtentReports](https://img.shields.io/badge/ExtentReports-2E86C1?style=for-the-badge&logoColor=white)
-![Logback](https://img.shields.io/badge/Logback-4CAF50?style=for-the-badge&logoColor=white)
-
----
-## 🏆 Automation Projects
-
-### 🖥️ UI Automation
-
-All UI projects follow a similar framework architecture, with the application-specific test scenarios adapted to each domain.
-
-#### 🛒 [E-commerce Automation Framework](https://github.com/DoruSQA/Project-1-eCommerce-Web-UI-Automation-Framework.git)
-
-- - **Status:** 🔒 Private (Access upon request)
-- **Description:** UI automation framework applied to an e-commerce application, covering application-specific functional test scenarios.
-- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
-- **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
-
-#### 🏦 [Banking Application Automation](https://github.com/DoruSQA/Project-2-Banking-Web-UI-Automation-Framework.git)
-
-- **Status:** 🟢 Public
-- **Description:** UI automation framework applied to a banking application, covering authentication, account management, funds, transactions, bill payments and loan workflows.
-- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
-- **Key Features:** Page Object Model, layered architecture, static/dynamic/model-based test data, multi-environment & multi-browser execution, parallel execution, reporting & logging
-
-#### 🗃️ [Inventory Desktop UI Automation Framework](https://github.com/DoruSQA/Project-9-Inventory-Desktop-UI-Automation-Framework)
-
-- **Status:** 🟢 Public
-- **Description:** Windows Desktop UI automation framework applied to an Inventory application, covering authentication, customer management and product management workflows.
-- **Tech Stack:** `C#` `.NET 6.0` `Appium` `WinAppDriver` `Selenium WebDriver` `NUnit` `Extent Reports`
-- **Key Features:** Layered architecture, structured namespace organization external test data, reusable components, custom element waits, configurable test execution, reporting
-
-#### 🏢 [HR Management Automation Framework](REPOSITORY_URL)
-
-- **Status:** 🔒 Private (Access upon request)
-- **Description:** UI automation framework applied to an HR management application, with application-specific functional test scenarios.
-- **Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Gson` `ExtentReports` `Logback`
-- **Key Features:** Page Object Model, layered architecture, reusable components, test data management, configurable execution, reporting & logging
-
----
-
-### 🧪 API Automation
-
-I built four API testing projects covering REST, GraphQL and SOAP, using both code-based automation frameworks and Postman, with a focus on maintainability, reusability, test data management and end-to-end validation.
-
-#### 🔗 [REST API Automation Framework](REPOSITORY_URL)
-
-- **Status:** 🔒 Private (Access upon request)
-- **Description:** REST API automation covering Auth, User, Product and Cart services, including CRUD, positive/negative scenarios, validation and JSON Schema testing.
-- **Tech Stack:** `Java` `REST Assured` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
-- **Key Features:** REST service test organization, Test Data Management, JSON Schema Validation, Response Deserialization, Configurable Execution.
-
-#### ◈ [GraphQL API Automation Framework](REPOSITORY_URL)
-
-- **Status:** 🔒 Private (Access upon request)
-- **Description:** GraphQL API automation covering User, Product and Order services, including CRUD operations and cross-service end-to-end business workflows.
-- **Tech Stack:** `Java` `REST Assured` `GraphQL` `TestNG` `Maven` `Jackson` `Lombok` `ExtentReports`
-- **Key Features:** GraphQL queries & mutations, dynamic test data, response models, reusable expected values and E2E business-flow validation.
-
-#### 🧼 [SOAP API Automation Framework](https://github.com/DoruSQA/Project-6-SOAP-API-Automation-Framework.git)
-
-- **Status:** 🟢 Public
-- **Description:** SOAP API automation covering User and Product services, with CRUD operations and positive, negative, boundary and validation scenarios.
-- **Tech Stack:** `JavaScript` `Node.js` `Playwright` `SOAP` `XML` `fast-xml-parser`
-- **Key Features:** Reusable XML templates, runtime parametrization, custom Playwright fixtures and XML response parsing.
-
-#### 📬 [Postman REST API Testing](https://github.com/DoruSQA/Project-7-REST-API-Testing-Postman.git)
-
-- **Status:** 🟢 Public
-- **Description:** Postman-based REST API testing of an e-commerce application covering User, Product and Order services, together with cross-service E2E workflows.
-- **Tech Stack:** `Postman` `JavaScript` `REST API` `JSON` `JSON Schema`
-- **Key Features:** CRUD testing, positive/negative & boundary testing, response and schema validation, dynamic test data generation, request chaining, Postman variables, JavaScript test scripts and E2E workflows.
-
----
-## 🎯 Current Focus
-
-- Advanced API Testing
-- Improving Automation Framework Design
-- Software Testing Best Practices
-
----
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sava-doru/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sava23917@gmail.com)
-[![GitHub Page](https://img.shields.io/badge/GitHub%20Page-9B59FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://dorusqa.github.io/)
-
----
-
-## 💡 A little bit about me  
-
-> "If there's a **will** there's a **way**"
-
----
+<p align="center">
+  <a href="https://github.com/DoruSQA">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=DoruSQA&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/DoruSQA">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoruSQA&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
