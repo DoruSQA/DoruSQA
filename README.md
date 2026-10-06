@@ -33,7 +33,8 @@
 
 ---
 
-### 🛠️ Teck Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="24" height="24" /> Tech Stack
+<!--### 🛠️ Teck Stack-->
 
 ![Java](https://img.shields.io/badge/-Java-000?\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=javascript)
