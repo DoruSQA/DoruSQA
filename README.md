@@ -20,6 +20,8 @@
 <br>
 
 ### 👤 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
+
 <p align="left" font-family="Times New Roman">
   𝙷𝚒, 𝙸'𝚖 Doru, 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚀𝚞𝚊𝚕𝚒𝚝𝚢 𝙰𝚜𝚜𝚞𝚛𝚊𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 Romania.
   <br>
