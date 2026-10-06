@@ -11,6 +11,8 @@
   <a href="https://github.com/DoruSQA" title="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://leetcode.com/u/farhanlabib/" title="Leetcode Profile"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sava23917@gmail.com)
+[![GitHub Page](https://img.shields.io/badge/GitHub%20Page-9B59FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://dorusqa.github.io/)
 </h5>
 
 
@@ -33,7 +35,7 @@
 </𝚙>
 
 
-### 🔨 Teck Stack
+### 🛠️ Teck Stack
 
 ![Java](https://img.shields.io/badge/-Java-000?\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=javascript)
@@ -63,30 +65,6 @@
 
 ### 📌 Areas of Focus
 
-
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-000?&logo=testng&logoColor=white)
-![NUnit](https://img.shields.io/badge/-NUnit-000?&logo=nunit&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-000?&logo=pytest&logoColor=white)
-![REST Assured](https://img.shields.io/badge/-REST%20Assured-000?&logo=restassured&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/-k6-000?&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-000?&logo=apache&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=white)
-![Appium](https://img.shields.io/badge/-Appium-000?&logo=appium&logoColor=white)
-![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=githubactions&logoColor=white)
-
-
-yea
 
   <img src="https://img.shields.io/badge/UI%20Automation-Selenium%20%7C%20Playwright-blue">
   <img src="https://img.shields.io/badge/API%20Testing-REST%20Assured%20%7C%20Postman-green">
