@@ -21,21 +21,21 @@
 
 ### 👤 About Me
 <p align="left" font-family="Times New Roman">
-  𝙷𝚒, 𝙸'𝚖 I'm Doru, 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚀𝚞𝚊𝚕𝚒𝚝𝚢 𝙰𝚜𝚜𝚞𝚛𝚊𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 Romania.
+  𝙷𝚒, 𝙸'𝚖 Doru, 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚀𝚞𝚊𝚕𝚒𝚝𝚢 𝙰𝚜𝚜𝚞𝚛𝚊𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 Romania.
   <br>
   - 🎓 Completed QA Automation training with a strong hands-on focus.
     <br>
   - 🔍 Curious by nature and interested in understanding systems beyond the surface.
     <br>
-  - 💻 Working knowledge of **Java**, **JavaScript** and **C#.**
+  - 💻 Hands-on experience building and maintaining automation frameworks through practical projects.
     <br>
-  - 🌐 Hands-on experience with both **UI** and **API automation**.
+  - 🌐 Hands-on experience in <b>UI</b>, <b>API</b> and <b>Performance Testing</b>.
 	<br>
-  - 🏗️ Built automation frameworks rather than only writing isolated test scripts.
+  - 📌 My pinned repositories showcase my hands-on work and provide direct access to my automation projects.
 	<br>
-  - 🌱 Currently exploring Performance Testing with k6.
+  - 🏗️ Built automation frameworks rather than only writing isolated test scripts. 📌Check out my pinned repositories.
 	<br>
-  - 📚 Continuously learning and improving my QA Automation skill set.
+  - 🎯  Continuously learning and improving my QA Automation skill set.
 </𝚙>
 
 ---
