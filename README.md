@@ -50,6 +50,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?\&logo=githubactions)
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
 
+![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-000?&logo=testng&logoColor=white)
+![REST Assured](https://img.shields.io/badge/-REST%20Assured-000?&logo=restassured&logoColor=white)
+
 
 ### 📌 Areas of Focus
 
