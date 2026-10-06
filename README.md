@@ -29,7 +29,7 @@
     <br>
   - 💻  Hands-on experience building a variety of automation frameworks across <b>UI</b>, <b>API</b> and <b>Performance</b> testing.
 	<br>
-  - 🌐 Worked with multiple API technologies, including <b>REST</b>, <b>SOAP</b> and <b>GraphQL</b>
+  - 🌐 Worked with multiple API technologies, including <b>REST</b>, <b>SOAP</b> and <b>GraphQL</b>.
 	<br>
   - 🎯  Continuously learning and improving my QA Automation skill set.
 </𝚙>
@@ -59,11 +59,18 @@
 
 ---
 
+<!--
 ### ⚡ GitHub Stats 
-
 <br>
 
 <p align="left">
-  <!--<a href="https://github.com/DoruSQA"><img width="390" src="https://github-readme-stats.vercel.app/api?username=DoruSQA&show_icons=true&theme=tokyonight&hide_border=true" /></a>-->
+  <a href="https://github.com/DoruSQA"><img width="390" src="https://github-readme-stats.vercel.app/api?username=DoruSQA&show_icons=true&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/DoruSQA"><img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoruSQA&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </p>
+-->
+
+## 💡 A little bit about me  
+
+> "If there's a **will** there's a **way**"
+
+---
