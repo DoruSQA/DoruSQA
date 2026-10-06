@@ -69,8 +69,8 @@
 </p>
 -->
 
-## 💡 A little bit about me  
+### 💡 A little bit about me  
 
-> "If there's a **will** there's a **way**"
+> "If there's a **will** there's a **way.**"
 
 ---
