@@ -33,7 +33,7 @@
 </𝚙>
 
 
-### 🔨 Languages and Tools
+### 🔨 Teck Stack
 
 ![Java](https://img.shields.io/badge/-Java-000?\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=javascript)
@@ -43,11 +43,15 @@
 ![TestNG](https://img.shields.io/badge/-TestNG-000?\&logo=testng)
 ![pytest](https://img.shields.io/badge/-pytest-000?\&logo=pytest)
 ![REST Assured](https://img.shields.io/badge/-REST%20Assured-000?\&logo=java)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=white)
+![NUnit](https://img.shields.io/badge/-NUnit-000?&logo=nunit&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?\&logo=postman)
 ![k6](https://img.shields.io/badge/-k6-000?\&logo=k6)
 ![Maven](https://img.shields.io/badge/-Maven-000?\&logo=apachemaven)
 ![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?\&logo=githubactions)
+![Appium](https://img.shields.io/badge/-Appium-000?&logo=appium&logoColor=white)
+![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
 
 
@@ -90,7 +94,7 @@ yea
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-purple">
 
 
-### ⚡ GitHub Stats ⚡
+### ⚡ GitHub Stats 
 
 <br>
 
