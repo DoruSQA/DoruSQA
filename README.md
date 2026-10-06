@@ -10,8 +10,8 @@
 <h5 align="center">
   <a href="https://www.linkedin.com/in/sava-doru/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
   <a href="https://github.com/DoruSQA" title="GitHub Profile"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="hacker_rank_profile" title="https://www.hackerrank.com/profile/sava23917"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="mailto:sava23917@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!--<a href="hacker_rank_profile" title="HackerRank Profile"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"></a>-->
  <!-- <a href="https://dorusqa.github.io/" title="GitHub Page"><img src="https://img.shields.io/badge/GitHub%20Page-9B59FF?style=for-the-badge&logo=githubpages&logoColor=white"></a>-->
 </h5>
 
