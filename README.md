@@ -35,7 +35,6 @@
   - 🌱 Currently exploring Performance Testing with k6.
 	<br>
   - 📚 Continuously learning and improving my QA Automation skill set.
-
 </𝚙>
 
 
