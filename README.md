@@ -27,13 +27,9 @@
     <br>
   - 🔍 Curious by nature and interested in understanding systems beyond the surface.
     <br>
-  - 💻 Hands-on experience building and maintaining automation frameworks through practical projects.
-    <br>
-  - 🌐 Hands-on experience in <b>UI</b>, <b>API</b> and <b>Performance Testing</b>.
+  - 💻  Hands-on experience building a variety of automation frameworks across <b>UI</b>, <b>API</b> and <b>Performance</b> testing.
 	<br>
-  - 📌 My pinned repositories showcase my hands-on work and provide direct access to my automation projects.
-	<br>
-  - 🏗️ Built automation frameworks rather than only writing isolated test scripts. 📌Check out my pinned repositories.
+  - 🌐 Worked with multiple API technologies, including <b>REST</b>, <b>SOAP</b> and <b>GraphQL</b>
 	<br>
   - 🎯  Continuously learning and improving my QA Automation skill set.
 </𝚙>
