@@ -22,17 +22,20 @@
 <p align="left" font-family="Times New Roman">
   𝙷𝚒, 𝙸'𝚖 I'm Doru, 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚀𝚞𝚊𝚕𝚒𝚝𝚢 𝙰𝚜𝚜𝚞𝚛𝚊𝚗𝚌𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚏𝚛𝚘𝚖 Romania.
   <br>
-  - 🔎 My main areas of interest are UI, API and Performance Testing.
+  - 🎓 Completed QA Automation training with a strong hands-on focus.
     <br>
-  - 💻 𝙸 𝚕𝚘𝚟𝚎 software 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 in general, but more specifically API's.
+  - 🔍 Curious by nature and interested in understanding systems beyond the surface.
     <br>
-  - 🧪 I build automation frameworks using Java and JavaScript, with a focus on reusable and scalable test architecture.
+  - 💻 Working knowledge of **Java, JavaScript and C#.**
     <br>
+  - 🌐 Hands-on experience with both **UI and API automation.**
+	<br>
+  - 🏗️ Built automation frameworks rather than only writing isolated test scripts.
+	<br>
   - 🌱 Currently exploring Performance Testing with k6.
 	<br>
-  - 📚 Continuously learning and expanding my QA Automation skill set.
-    <br>
-  - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <a href="mailto: sava23917@gmail.com">sava23917@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</a>
+  - 📚 Continuously learning and improving my QA Automation skill set.
+
 </𝚙>
 
 
@@ -56,21 +59,6 @@
 ![Appium](https://img.shields.io/badge/-Appium-000?&logo=appium&logoColor=white)
 ![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
-
-
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=white)
-![NUnit](https://img.shields.io/badge/-NUnit-000?&logo=nunit&logoColor=white)
-![Appium](https://img.shields.io/badge/-Appium-000?&logo=appium&logoColor=white)
-![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
-
-### 📌 Areas of Focus
-
-
-  <img src="https://img.shields.io/badge/UI%20Automation-Selenium%20%7C%20Playwright-blue">
-  <img src="https://img.shields.io/badge/API%20Testing-REST%20Assured%20%7C%20Postman-green">
-  <img src="https://img.shields.io/badge/Performance%20Testing-k6%20%7C%20JMeter-orange">
-  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-purple">
 
 
 ### ⚡ GitHub Stats 
