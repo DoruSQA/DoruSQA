@@ -67,7 +67,7 @@
 </p>
 -->
 
-### 🕵️ 🧐 A little bit about me  
+### 🕵️ Guiding Philosophy  
 
 > "Assume **nothing.** Verify **everything.**"
 
