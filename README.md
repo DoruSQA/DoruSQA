@@ -1,11 +1,11 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DoruSQA.DoruSQA&right_color=blue"> -->
 
-
+<!--
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DoruSQA.DoruSQA&right_color=blue" alt="Visitors">
   <img src="https://stats.pphat.top/badges?username=DoruSQA&name=total-stars&theme=ocean&size=small" alt="Total Stars">
 </p>
-
+-->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
