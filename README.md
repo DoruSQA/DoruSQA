@@ -66,7 +66,8 @@
 ![Appium](https://img.shields.io/badge/-Appium-000?&logo=appium&logoColor=white)
 ![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-000?&logo=windows&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
-
+![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=cucumber&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/-JUnit%205-000?&logo=junit5&logoColor=white)
 ---
 
 <!--
