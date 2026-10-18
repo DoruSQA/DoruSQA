@@ -1,8 +1,14 @@
-
+<!--
 <p align="right">
   ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=DoruSQA.DoruSQA&right_color=blue)
   ![GitHub Stars](https://img.shields.io/github/stars/DoruSQA?affiliations=OWNER&style=flat&logo=github&label=Total%20Stars)
 
+</p>
+-->
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DoruSQA.DoruSQA&right_color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/DoruSQA?affiliations=OWNER&style=flat&logo=github&label=Total%20Stars" alt="GitHub Total Stars" />
 </p>
 
 <h1 align="center">
