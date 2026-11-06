@@ -34,12 +34,14 @@
   <br>
   - 🎓 Completed QA Automation training with a strong hands-on focus.
     <br>
+  - ✅ ISTQB® CTFL Certified.
+	<br>
   - 🔍 Curious by nature and interested in understanding systems beyond the surface.
     <br>
   - 💻  Hands-on experience building a variety of automation frameworks across <b>UI</b>, <b>API</b> and <b>Performance</b> testing.
 	<br>
-  - 🌐 Worked with multiple API technologies, including <b>REST</b>, <b>SOAP</b> and <b>GraphQL</b>.
-	<br>
+  <!--- 🌐 Worked with multiple API technologies, including <b>REST</b>, <b>SOAP</b> and <b>GraphQL</b>.
+	<br>-->
   - 🎯  Continuously learning and improving my QA Automation skill set.
 </𝚙>
 
