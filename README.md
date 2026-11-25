@@ -70,6 +70,8 @@
 ![JMeter](https://img.shields.io/badge/-JMeter-000?\&logo=apache)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=cucumber&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/-JUnit%205-000?&logo=junit5&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka&logoColor=white)
 ---
 
 <!--
